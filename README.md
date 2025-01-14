@@ -18,6 +18,17 @@ This Python script allows you to find kitchen showrooms near a specified locatio
 7. Click "Create Credentials" and select "API Key".
 8. Copy the API key and save it for later use.
 
+## Downloading the Code
+
+1. **Clone the Repository**: To clone the repository using Git, open your terminal or command prompt and run the following command:
+   ```bash
+   git clone https://github.com/AndrewVII/allstyle-maps-scraper.git
+   ```
+
+2. **Download as ZIP**: Alternatively, you can download the code as a ZIP file. Click on the "Code" button at the top of this page, and select "Download ZIP". Extract the ZIP file to your desired location.
+
+Once you have the code on your local machine, proceed with setting up the environment as described below.
+
 ## Setting Up the Environment
 
 ### macOS
